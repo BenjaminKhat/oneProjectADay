@@ -1,7 +1,8 @@
 # oneProjectADay
 One project a day for thirty days
-    1er modif
+    1 <sup>er</sup> modif
         dans Git
+        ```
             commande cd Githubs
             commande git clone + https du projet
             commande cd nomDuProjet
@@ -11,3 +12,4 @@ One project a day for thirty days
             commande git commit -m "message de description du commit"
             commande git push pour finaliser la fin du commit
             commande git status pour voir si tout va bien
+            ```
